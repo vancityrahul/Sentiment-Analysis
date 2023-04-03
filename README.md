@@ -14,16 +14,14 @@ python app.py
 This will start the web server, and you can access the application by visiting http://localhost:5000 in your web browser.
 
 ## Dataset
-The dataset used to train the model is the Large Movie Review Dataset provided by Stanford University. The dataset contains 50,000 movie reviews labeled as either positive or negative.
+The dataset used to train the model is the Twitter Dataset provided by "nltk". The dataset contains 11,339 twitter samples labeled as either positive or negative.
 
 ## Model
 The model used in this project is a logistic regression model. Logistic regression is a type of classification algorithm that is used to predict the probability of a categorical dependent variable. In this case, the dependent variable is whether a piece of text is positive or negative.
 
 ## Results
-The model achieves an accuracy of around 88% on the test set. This is a reasonably good accuracy for a sentiment analysis model, considering that human agreement on sentiment labeling is typically around 80%.
+The model achieves an accuracy of around 99% on the test set. This is a reasonably good accuracy for a sentiment analysis model, considering that human agreement on sentiment labeling is typically around 80%.
 
 ## Contributing
-If you want to contribute to this project, feel free to submit a pull request or open an issue. We welcome any contributions or feedback!
+If you want to contribute to this project, feel free to submit a pull request or open an issue. I welcome any contributions or feedback!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
