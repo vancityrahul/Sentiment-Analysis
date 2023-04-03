@@ -1,6 +1,6 @@
 # Sentiment-Analysis
 Sentimenytal Analysis of Twitter Data  using Logistic Regression Model
-This is a simple sentiment analysis project that uses a logistic regression model to classify text as either positive or negative. The model is trained on a dataset of labeled movie reviews and can be used to classify any piece of text as positive or negative.
+This is a simple sentiment analysis project that uses a logistic regression model to classify text as either positive or negative. The model is trained on a dataset of Twitter and can be used to classify any piece of text as positive or negative.
 
 ## Installation
 To run this project, you'll need to have Python 3 installed. You can clone the repository and install the necessary packages using pip:
